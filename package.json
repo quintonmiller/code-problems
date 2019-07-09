@@ -1,0 +1,25 @@
+{
+  "name": "code-problems",
+  "version": "1.0.0",
+  "description": "Code Problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://quintonmiller@github.com/quintonmiller/code-problems.git"
+  },
+  "author": "Quinton Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quintonmiller/code-problems/issues"
+  },
+  "homepage": "https://github.com/quintonmiller/code-problems#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.15",
+    "jest": "^24.8.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.3"
+  }
+}
